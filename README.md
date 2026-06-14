@@ -82,3 +82,6 @@ Before submitting a pull request:
 1. Run `npm run typecheck` to ensure TypeScript constraints are met.
 2. Run `npm run lint` to catch ESLint violations.
 3. Run `npm run format` to apply Prettier formatting.
+
+---
+Part of the **[Tlusr platform](https://github.com/T0MYAMMM/tlusr-platform)**. Standards: [STANDARDS.md](https://github.com/T0MYAMMM/tlusr-platform/blob/main/STANDARDS.md) · Architecture: [ARCHITECTURE.md](https://github.com/T0MYAMMM/tlusr-platform/blob/main/ARCHITECTURE.md) · Contributing: [CONTRIBUTING.md](./CONTRIBUTING.md) · Agents: [AGENTS.md](./AGENTS.md)
